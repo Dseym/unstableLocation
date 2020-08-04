@@ -1,0 +1,6 @@
+name: UnstableLocation
+version: 1.0
+main: unstableLocation.main
+commands:
+  start:
+    usage: /start
